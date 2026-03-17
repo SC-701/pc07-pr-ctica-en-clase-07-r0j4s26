@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Abstracciones.Modelos.Servicios.TipoCambio
+namespace Abstracciones.Servicios.TipoCambio
 {
     public class TipoCambio
     {

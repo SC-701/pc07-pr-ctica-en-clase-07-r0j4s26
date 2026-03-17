@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Abstracciones.Modelos.Servicios
+namespace Abstracciones.Servicios
 {
     public class ApiEndpoint
     {

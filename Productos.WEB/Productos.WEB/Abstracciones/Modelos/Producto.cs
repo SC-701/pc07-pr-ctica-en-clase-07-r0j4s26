@@ -30,8 +30,7 @@ namespace Abstracciones.Modelos
     public class ProductoRequest : ProductoBase
     {
         [Required(ErrorMessage = "La subcategoría es obligatoria")]
-        public Guid IdSubCategoria { get; set;}
-       
+        public Guid IdSubCategoria{ get; set;}
     }
     public class ProductoResponse : ProductoBase
     {
